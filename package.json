@@ -1,6 +1,6 @@
 {
   "name": "hubot-slideshare",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Hubot script that returns slideshare presentations",
   "main": "index.js",
   "scripts": {
